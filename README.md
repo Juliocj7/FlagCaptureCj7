@@ -42,12 +42,20 @@ ______________________________________________________
   </details>
 </div>
 
-## FlagCaptureCj7 :
+> [!NOTE]
+> Only capture the flag my friend :bulb:
 
-* Only capture the flag my friend xD
+## Contacto :
+:point_right: [WhatsApp](https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest)
+
+:point_right: [Telegram](https://t.me/JulioCj7)
+
+## FlagCaptureCj7 :
+* Captura las banderas de cada nivel, envíamelas por WhatsApp o Telegram y recibirás una recompensa por tu esfuerzo :moneybag:
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
+## Instalación :
 ```bash
   yes|apt update && apt upgrade
 ```
