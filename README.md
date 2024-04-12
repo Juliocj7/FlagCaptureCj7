@@ -42,18 +42,18 @@ ______________________________________________________
   </details>
 </div>
 
-## BookmarksCj7 :
+## FlagCaptureCj7 :
 
-* Mega pack of my bookmarks xD.
+* Only capture the flag my friend xD
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ```bash
   yes|apt update && apt upgrade
 ```
-* `git clone https://github.com/Juliocj7/BookmarksCj7`
+* `git clone https://github.com/Juliocj7/FlagCaptureCj7`
 
-* `cd BookmarksCj7`
+* `cd FlagCaptureCj7`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
