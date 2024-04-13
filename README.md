@@ -46,9 +46,19 @@ ______________________________________________________
 > Only capture the flag my friend :bulb:
 
 ## Contacto :
-:point_right: [WhatsApp](https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest)
+<div align="center">
+  <a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://t.me/JulioCj7">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
+  </a>
+</div>
 
+<!--
+:point_right: [WhatsApp](https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest)
 :point_right: [Telegram](https://t.me/JulioCj7)
+-->
 
 ## FlagCaptureCj7 :
 * Captura las banderas de cada nivel, envíamelas por WhatsApp o Telegram y recibirás una recompensa por tu esfuerzo :moneybag:
