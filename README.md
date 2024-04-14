@@ -67,7 +67,7 @@ ______________________________________________________
 
 ## Instalación :
 ```bash
-  yes|apt update && apt upgrade
+  yes|{apt update && apt upgrade}
 ```
 * `git clone https://github.com/Juliocj7/FlagCaptureCj7`
 
