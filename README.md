@@ -82,6 +82,7 @@ gh repo clone Juliocj7/FlagCaptureCj7
 cd FlagCaptureCj7
 ```
 
+###### ...and:
 > [!IMPORTANT]
 > :alarm_clock: Elige un nivel de dificultad y a capturar la bandera xD :triangular_flag_on_post:
 
