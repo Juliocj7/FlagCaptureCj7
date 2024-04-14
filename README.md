@@ -83,7 +83,7 @@ cd FlagCaptureCj7
 ```
 
 > [!IMPORTANT]
-> :alarm_clock: Elige un nivel de dificultad y a capturar la bandera :triangular_flag_on_post:
+> :alarm_clock: Elige un nivel de dificultad y a capturar la bandera xD :triangular_flag_on_post:
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
