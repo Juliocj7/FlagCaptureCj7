@@ -42,6 +42,12 @@ ______________________________________________________
   </details>
 </div>
 
+<div align="center">
+  <p>
+    🥇🥈🥉
+  </p>
+</div>
+
 > [!NOTE]
 > Only capture the flag my friend :bulb:
 
@@ -67,11 +73,17 @@ ______________________________________________________
 
 ## Instalación :
 ```bash
-  yes|{apt update && apt upgrade}
+yes|{apt update && apt upgrade}
 ```
-* `git clone https://github.com/Juliocj7/FlagCaptureCj7`
+```bash
+gh repo clone Juliocj7/FlagCaptureCj7
+```
+```bash
+cd FlagCaptureCj7
+```
 
-* `cd FlagCaptureCj7`
+> [!IMPORTANT]
+> :alarm_clock: Elige un nivel de dificultad y a capturar la bandera :triangular_flag_on_post:
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
