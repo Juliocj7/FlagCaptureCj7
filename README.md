@@ -69,7 +69,7 @@ ______________________________________________________
 ## FlagCaptureCj7 :
 * Captura las banderas de cada nivel, envíamelas por WhatsApp o Telegram y recibirás una recompensa por tu esfuerzo :moneybag:
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
-- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
+* > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
 ## Instalación :
 ###### 01. Actualizar paquetes
@@ -93,3 +93,7 @@ cd FlagCaptureCj7
 ###### `Pd: Porfavor informar cualquier error`
 ###### `By: JulioCj7 +59179424937` :stuck_out_tongue_winking_eye:
 ---
+
+```ShellSession
+[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𝙲𝚓7᭖᭕ᬁ⍣
+```
