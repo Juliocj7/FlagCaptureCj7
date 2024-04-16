@@ -72,13 +72,16 @@ ______________________________________________________
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
-```bash
+###### 01. Actualizar paquetes
+```shell
 yes|{apt update && apt upgrade}
 ```
-```bash
+###### 02. Clonar repositorio
+```shell
 gh repo clone Juliocj7/FlagCaptureCj7
 ```
-```bash
+###### 03. Acceso a directorio 
+```shell
 cd FlagCaptureCj7
 ```
 
