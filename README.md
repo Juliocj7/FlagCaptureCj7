@@ -49,7 +49,7 @@ ______________________________________________________
 </div>
 
 > [!NOTE]
-> Only capture the flag my friend :bulb:
+> > Only `capture the flag` my friend :bulb:
 
 ## Contacto :
 <div align="center">
@@ -59,15 +59,19 @@ ______________________________________________________
   <a href="https://t.me/JulioCj7">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
   </a>
+  <a href="https://discordapp.com/users/617562629065539634">
+    <img src="https://img.shields.io/badge/Discord-2CA5E0?style=flat&logo=discord&logoColor=white">
+  </a>
 </div>
 
 <!--
 :point_right: [WhatsApp](https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest)
 :point_right: [Telegram](https://t.me/JulioCj7)
+:point_right: [Discord](https://discordapp.com/users/617562629065539634)
 -->
 
 ## FlagCaptureCj7 :
-* Captura las banderas de cada nivel, envíamelas por WhatsApp o Telegram y recibirás una recompensa por tu esfuerzo :moneybag:
+* Captura las banderas de cada nivel, envíamelas por WhatsApp, Telegram o Discord y recibirás una recompensa por tu esfuerzo :moneybag:
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 * > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
@@ -87,13 +91,20 @@ cd FlagCaptureCj7
 
 ###### ...and:
 > [!IMPORTANT]
-> :alarm_clock: Elige un nivel de dificultad y a capturar la bandera xD :triangular_flag_on_post:
+> > :triangular_flag_on_post: Elige un nivel de dificultad y a capturar la bandera xD 
 
----
-###### `Pd: Porfavor informar cualquier error`
-###### `By: JulioCj7 +59179424937` :stuck_out_tongue_winking_eye:
 ---
 
 ```ShellSession
-[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𝙲𝚓7᭖᭕ᬁ⍣
+[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #+59179424937 😜
 ```
+
+<div align="center">
+  <sub>
+    
+  > 𝙿𝚘𝚛𝚏𝚊𝚟𝚘𝚛 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚛 𝚌𝚞𝚊𝚕𝚚𝚞𝚒𝚎𝚛 𝚎𝚛𝚛𝚘𝚛
+
+  </sub>
+</div>
+
+---
