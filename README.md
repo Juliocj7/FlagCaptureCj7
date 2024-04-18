@@ -73,7 +73,7 @@ ______________________________________________________
 ## FlagCaptureCj7 :
 * Captura las banderas de cada nivel, envíamelas por WhatsApp, Telegram o Discord y recibirás una recompensa por tu esfuerzo :moneybag:
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
-* > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
+- > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
 ## Instalación :
 ###### 01. Actualizar paquetes
@@ -107,4 +107,8 @@ cd FlagCaptureCj7
   </sub>
 </div>
 
----
+<div align="center">
+  <a href="#--------">
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
+  </a>
+</div>
