@@ -64,23 +64,31 @@ ______________________________________________________
 -->
 
 ## Contacto :
+<p align="center">
+  <code><a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest" target="_blank"><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a></code>
+  <code><a href="https://t.me/JulioCj7" target="_blank"><img height="25" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a></code>
+  <code><a href="https://discordapp.com/users/617562629065539634" target="_blank"><img height="25" src="https://img.shields.io/badge/Discord-2CA5E0?style=flat&logo=discord&logoColor=white"></a></code>
+</p>
+
+<!--
 <div align="center">
   <kbd>
-    <a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest">
+    <a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
     </a>
   </kbd>
   <kbd>
-    <a href="https://t.me/JulioCj7">
+    <a href="https://t.me/JulioCj7" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
     </a>
   </kbd>
   <kbd>
-    <a href="https://discordapp.com/users/617562629065539634">
+    <a href="https://discordapp.com/users/617562629065539634" target="_blank">
       <img src="https://img.shields.io/badge/Discord-2CA5E0?style=flat&logo=discord&logoColor=white">
     </a>
   </kbd>
 </div>
+-->
 
 ## FlagCaptureCj7 :
 * Captura las banderas de cada nivel, envíamelas por WhatsApp, Telegram o Discord y recibirás una recompensa por tu esfuerzo :moneybag:
