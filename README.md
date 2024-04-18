@@ -51,6 +51,7 @@ ______________________________________________________
 > [!NOTE]
 > > 𝙾𝚗𝚕𝚢 `𝚌𝚊𝚙𝚝𝚞𝚛𝚎 𝚝𝚑𝚎 𝚏𝚕𝚊𝚐` 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍 :bulb:
 
+<!--
 > **...**
 > > <details>
 > >   <summary>&nbsp;&#128293; 𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚘 &#128293;</summary>
@@ -60,23 +61,24 @@ ______________________________________________________
 > > <a href="https://t.me/JulioCj7"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a>
 > > <a href="https://discordapp.com/users/617562629065539634"><img src="https://img.shields.io/badge/Discord-2CA5E0?style=flat&logo=discord&logoColor=white"></a>
 > > </details>
+-->
 
 ## Contacto :
 <div align="center">
   <kbd>
-  <a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
-  </a>
+    <a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
+    </a>
   </kbd>
   <kbd>
-  <a href="https://t.me/JulioCj7">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
-  </a>
+    <a href="https://t.me/JulioCj7">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
+    </a>
   </kbd>
   <kbd>
-  <a href="https://discordapp.com/users/617562629065539634">
-    <img src="https://img.shields.io/badge/Discord-2CA5E0?style=flat&logo=discord&logoColor=white">
-  </a>
+    <a href="https://discordapp.com/users/617562629065539634">
+      <img src="https://img.shields.io/badge/Discord-2CA5E0?style=flat&logo=discord&logoColor=white">
+    </a>
   </kbd>
 </div>
 
