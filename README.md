@@ -1,4 +1,4 @@
-<!-- 
+<!--
 ♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡
 [ ! ] 𝙸𝙼𝙿𝙾𝚁𝚃𝙰𝙽𝚃𝙴 :
 ***** ********** *
@@ -98,7 +98,7 @@ ______________________________________________________
 ## Instalación :
 ###### 01. Actualizar paquetes
 ```shell
-yes|{apt update && apt upgrade}
+yes|{ apt update && apt upgrade; }
 ```
 ###### 02. Clonar repositorio
 ```shell
