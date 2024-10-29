@@ -112,7 +112,9 @@ cd FlagCaptureCj7
 <hr>
 
 > [!IMPORTANT]
-> > :triangular_flag_on_post: Elige un nivel de dificultad y a capturar la bandera xD 
+> > :triangular_flag_on_post: Elige un nivel de dificultad y a capturar la bandera:
+> > 
+> > 𝙹𝚞𝚕𝚒𝙾_𝙲𝚃𝙵{**********}
 
 ---
 
