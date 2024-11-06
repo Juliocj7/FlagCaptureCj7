@@ -91,7 +91,7 @@ ______________________________________________________
 -->
 
 ## FlagCaptureCj7 :
-* Captura las banderas de cada nivel, envíamelas por WhatsApp, Telegram o Discord y recibirás una recompensa por tu esfuerzo :moneybag:
+* Captura las banderas de cada nivel de dificultad, envíamelas por WhatsApp, Telegram o Discord y recibirás una recompensa por tu esfuerzo :moneybag:
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
@@ -119,11 +119,11 @@ cd FlagCaptureCj7
 -->
 
 > [!IMPORTANT]
-> > 𝙴𝚕𝚒𝚐𝚎 𝚞𝚗 𝚗𝚒𝚟𝚎𝚕 𝚢 𝚌𝚊𝚙𝚝𝚞𝚛𝚊 𝚕𝚊 `𝚋𝚊𝚗𝚍𝚎𝚛𝚊` ( <sub>𝟻𝟷 𝚙𝚞𝟹𝚍𝟹𝟻 𝚡𝙳</sub> )
+> > 𝙴𝚕𝚒𝚐𝚎 𝚞𝚗 𝚗𝚒𝚟𝚎𝚕 𝚢 𝚌𝚊𝚙𝚝𝚞𝚛𝚊 𝚕𝚊 𝚋𝚊𝚗𝚍𝚎𝚛𝚊 <sub>... `¡ 𝟻𝟷 𝚙𝚞𝟹𝚍𝟹𝟻 𝚡𝙳 !`</sub>
 >
-> > * [x] ¡ 𝚜𝚒𝚖𝚙𝚕𝚎 !
-> > * [x] ¡ 𝚖𝚎𝚍𝚒𝚞𝚖 !
-> > * [ ] ¡ 𝚌𝚘𝚖𝚙𝚕𝚎𝚡 !
+> > * [x] ¡ 𝚜𝚒𝚖𝚙𝚕𝚎 ! &nbsp;&nbsp;&nbsp; :star:
+> > * [x] ¡ 𝚖𝚎𝚍𝚒𝚞𝚖 ! &nbsp;&nbsp;&nbsp; :star::star:
+> > * [ ] ¡ 𝚌𝚘𝚖𝚙𝚕𝚎𝚡 ! &nbsp; :star::star::star:
 >
 > <blockquote>
 > <details>
