@@ -1,8 +1,8 @@
-# ¡The password is not here!
-
+#  ** ¡The password is not here! **
 **/** filter=git-crypt diff=git-crypt
-**/*.md -filter
+#  ** ¡The password is not here! **
 
+       **/*.md -filter
     CODEOWNERS -filter
 .gitattributes -filter
 
