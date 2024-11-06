@@ -3,7 +3,7 @@
 **/** filter=git-crypt diff=git-crypt
 **/*.md -filter
 
-# ¡------------------------!
-
 .gitattributes -filter
 .github/CODEOWNERS -filter
+
+# Copyright © 2025 all rights reserved
