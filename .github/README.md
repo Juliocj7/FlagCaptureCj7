@@ -34,8 +34,8 @@ ______________________________________________________
     <br><br>
     <p align="left"><strong><samp>「</samp></strong></p>
     <samp>
-      Puedes mirar pero no
-      copiar<br>inmundo animal xD
+      𝙿𝚞𝚎𝚍𝚎𝚜 𝚖𝚒𝚛𝚊𝚛 𝚙𝚎𝚛𝚘 𝚗𝚘 <br>𝚌𝚘𝚙𝚒𝚊𝚛
+      𝚒𝚗𝚖𝚞𝚗𝚍𝚘 𝚊𝚗𝚒𝚖𝚊𝚕 𝚡𝙳
     </samp>
     <br>
     <p align="right"><strong><samp>」</samp></strong></p>
@@ -172,7 +172,7 @@ cd FlagCaptureCj7
 ---
 
 ```ShellSession
-[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #+59179424937 😜
+[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #+𝟻𝟿𝟷𝟽𝟿𝟺𝟸𝟺𝟿𝟹𝟽 😜
 ```
 
 <div align="center">
