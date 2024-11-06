@@ -106,7 +106,7 @@ ______________________________________________________
 </div>
 
 ## FlagCaptureCj7 :
-* Captura las banderas de cada nivel de dificultad, envíamelas por WhatsApp, Telegram o Discord y recibirás una recompensa por tu esfuerzo :moneybag:
+* Captu**r**a las band**e**ras de cada ni**v**el de dificultad, **e**nvíamelas po**r** What**s**App, Telegram o D**i**scord y recibirás u**n**a **g**ran recompensa por tu esfuerzo :moneybag:
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
@@ -151,6 +151,7 @@ cd FlagCaptureCj7
 >  <summary>&nbsp;𝙵𝚘𝚛𝚖𝚊𝚝 𝚏𝚕𝚊𝚐 :</summary>
 >
 > <sub>🚩</sub>&nbsp;&nbsp;&nbsp;<sub>`𝙹𝚞𝚕𝚒𝙾_𝙲𝚃𝙵{**********}`</sub>
+> <a href="#--------"><img src= "https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar1.gif" /></a>
 > </details>
 > </blockquote>
 >
@@ -159,6 +160,7 @@ cd FlagCaptureCj7
 >  <summary>&nbsp;𝙰𝚌𝚌𝚎𝚜𝚜 𝚔𝚎𝚢 :</summary>
 >
 > <sub>🔑</sub>&nbsp;&nbsp;&nbsp;<sub>`Ch@ll3ng3CTF!#34`</sub>
+> <a href="#--------"><img src= "https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar1.gif" /></a>
 > </details>
 > </blockquote>
 
