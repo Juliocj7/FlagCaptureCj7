@@ -117,27 +117,20 @@ ______________________________________________________
 </div>
 
 ## Instalación :
-###### 01. Actualizar paquetes
+###### 𝟶𝟷. 𝙰𝚌𝚝𝚞𝚊𝚕𝚒𝚣𝚊𝚛 𝚙𝚊𝚚𝚞𝚎𝚝𝚎𝚜
 ```shell
 yes|{ apt update && apt upgrade; }
 ```
-###### 02. Clonar repositorio
+###### 𝟶𝟸. 𝙲𝚕𝚘𝚗𝚊𝚛 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘
 ```shell
 gh repo clone Juliocj7/FlagCaptureCj7
 ```
-###### 03. Acceso a directorio 
+###### 𝟶𝟹. 𝙰𝚌𝚌𝚎𝚜𝚘 𝚊 𝚍𝚒𝚛𝚎𝚌𝚝𝚘𝚛𝚒𝚘
 ```shell
 cd FlagCaptureCj7
 ```
 
 <hr>
-
-<!--
-> [!IMPORTANT]
-> > 𝙴𝚕𝚒𝚐𝚎 𝚞𝚗 `𝚗𝚒𝚟𝚎𝚕 𝚍𝚎 𝚍𝚒𝚏𝚒𝚌𝚞𝚕𝚝𝚊𝚍` 𝚢 𝚊 `𝚌𝚊𝚙𝚝𝚞𝚛𝚊𝚛 𝚕𝚊 𝚋𝚊𝚗𝚍𝚎𝚛𝚊`:
-> > 
-> > :triangular_flag_on_post: `𝙹𝚞𝚕𝚒𝙾_𝙲𝚃𝙵{**********}`
--->
 
 > [!IMPORTANT]
 > > 𝙴𝚕𝚒𝚐𝚎 𝚞𝚗 𝚗𝚒𝚟𝚎𝚕 𝚢 𝚌𝚊𝚙𝚝𝚞𝚛𝚊 𝚕𝚊 𝚋𝚊𝚗𝚍𝚎𝚛𝚊 <sub>... `¡ 𝟻𝟷 𝚙𝚞𝟹𝚍𝟹𝟻 𝚡𝙳 !`</sub>
