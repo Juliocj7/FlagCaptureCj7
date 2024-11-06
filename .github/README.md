@@ -111,15 +111,37 @@ cd FlagCaptureCj7
 
 <hr>
 
+<!--
 > [!IMPORTANT]
 > > 𝙴𝚕𝚒𝚐𝚎 𝚞𝚗 `𝚗𝚒𝚟𝚎𝚕 𝚍𝚎 𝚍𝚒𝚏𝚒𝚌𝚞𝚕𝚝𝚊𝚍` 𝚢 𝚊 `𝚌𝚊𝚙𝚝𝚞𝚛𝚊𝚛 𝚕𝚊 𝚋𝚊𝚗𝚍𝚎𝚛𝚊`:
 > > 
 > > :triangular_flag_on_post: `𝙹𝚞𝚕𝚒𝙾_𝙲𝚃𝙵{**********}`
+-->
+
+> [!IMPORTANT]
+> > 𝙴𝚕𝚒𝚐𝚎 𝚞𝚗 `𝚗𝚒𝚟𝚎𝚕` 𝚢 𝚊 `𝚌𝚊𝚙𝚝𝚞𝚛𝚊𝚛` 𝚕𝚊 `𝚋𝚊𝚗𝚍𝚎𝚛𝚊`:
+> >
+>
+> <blockquote>
+> <details>
+>  <summary>&nbsp;𝙵𝚘𝚛𝚖𝚊𝚝 𝚏𝚕𝚊𝚐 :</summary>
+>
+> <sub>🚩</sub>&nbsp;&nbsp;&nbsp;<sub>`𝙹𝚞𝚕𝚒𝙾_𝙲𝚃𝙵{**********}`</sub>
+> </details>
+> </blockquote>
+>
+> <blockquote>
+> <details>
+>  <summary>&nbsp;𝙰𝚌𝚌𝚎𝚜𝚜 𝚔𝚎𝚢 :</summary>
+>
+> <sub>🔑</sub>&nbsp;&nbsp;&nbsp;<sub>`Ch@ll3ng3CTF!#34`</sub>
+> </details>
+> </blockquote>
 
 ---
 
 > [!CAUTION]
-> > <sub>¡ 𝚗𝚎𝚠 𝚕𝚎𝚟𝚎𝚕𝚜 𝚌𝚘𝚖𝚒𝚗𝚐 𝚜𝚘𝚘𝚗 !</sub>
+> > <sub>¡ 𝚗𝚎𝚠 𝚕𝚎𝚟𝚎𝚕𝚜 𝚌𝚘𝚖𝚒𝚗𝚐 𝚜</sub>𝙾𝙾<sub>𝚗 !</sub>
 
 ---
 
