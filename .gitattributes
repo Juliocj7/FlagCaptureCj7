@@ -1,0 +1,9 @@
+# ¡The password is not here!
+
+**/** filter=git-crypt diff=git-crypt
+**/*.md -filter
+
+# ¡------------------------!
+
+.gitattributes -filter
+.github/CODEOWNERS -filter
