@@ -78,7 +78,11 @@ ______________________________________________________
 </details>
 -->
 
+<!--
 ## <picture> <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/fireball.gif" width=30px>  </picture> Contacto :
+-->
+
+## Contacto :
 
 <br>
 
@@ -114,7 +118,11 @@ ______________________________________________________
   </a>
 </div>
 
+<!--
 ## <picture> <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/fireball.gif" width=30px>  </picture> FlagCaptureCj7 :
+-->
+
+## FlagCaptureCj7 :
 * Captu**r**a las band**e**ras de cada ni**v**el de dificultad, **e**nvíamelas po**r** What**s**App, Telegram o D**i**scord y recibirás u**n**a **g**ran recompensa por tu esfuerzo :moneybag:
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
@@ -125,7 +133,11 @@ ______________________________________________________
   </a>
 </div>
 
+<!--
 ## <picture> <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/fireball.gif" width=30px>  </picture> Instalación :
+-->
+
+## Instalación :
 ###### 𝟶𝟷. 𝙰𝚌𝚝𝚞𝚊𝚕𝚒𝚣𝚊𝚛 𝚙𝚊𝚚𝚞𝚎𝚝𝚎𝚜
 ```shell
 yes|{ apt update && apt upgrade; }
