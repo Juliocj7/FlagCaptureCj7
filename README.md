@@ -124,8 +124,8 @@ ______________________________________________________
 -->
 
 ## FlagCaptureCj7 :
-* Captura las [banderas]() de cada nivel de dificultad, envíamelas por [WhatsApp](#------), [Telegram](#------), [Discord](#------) o [Reddit](#------) y recibirás una gran recompensa por tu esfuerzo :moneybag:
-* Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
+* Captura las banderas de cada nivel de dificultad y envíamelas a través de [WhatsApp](#----), [Telegram](#----), [Discord](#----) o [Reddit](#----). ¡Recibirás una gran recompensa por tu esfuerzo! :moneybag:
+* El contenido, código, diseño y todo lo relacionado, son propiedad exclusiva mía :sunglasses:
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
 <div align="center">
