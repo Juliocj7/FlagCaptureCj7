@@ -48,44 +48,14 @@ ______________________________________________________
   </p>
 </div>
 
-<!--
-𝙹𝚞𝚜𝚝 𝚌𝚊𝚙𝚝𝚞𝚛𝚎 𝚝𝚑𝚎 𝚏𝚕𝚊𝚐, 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍, 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚑𝚒𝚜𝚝𝚘𝚛𝚢
-𝙹𝚞𝚜𝚝 𝚌𝚊𝚙𝚝𝚞𝚛𝚎 𝚝𝚑𝚎 𝚏𝚕𝚊𝚐, 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍, 𝙸’𝚖 𝚛𝚒𝚐𝚑𝚝 𝚋𝚎𝚑𝚒𝚗𝚍 𝚢𝚘𝚞
-𝙹𝚞𝚜𝚝 𝚌𝚊𝚙𝚝𝚞𝚛𝚎 𝚝𝚑𝚎 𝚏𝚕𝚊𝚐, 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍, 𝚊𝚗𝚍 𝚝𝚑𝚎𝚗 𝚠𝚎 𝚌𝚊𝚗 𝚊𝚕𝚕 𝚌𝚎𝚕𝚎𝚋𝚛𝚊𝚝𝚎!
--->
-
 > [!NOTE]
-> > 𝙹𝚞𝚜𝚝 `¡𝚌𝚊𝚙𝚝𝚞𝚛𝚎 𝚝𝚑𝚎 𝚏𝚕𝚊𝚐!`, 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍, 𝚒𝚏 𝚢𝚘𝚞 𝚍𝚊𝚛𝚎 &nbsp;&nbsp;**...**&nbsp;&nbsp; :fire:
-
-<!--
-> **...**
-> > <details>
-> >   <summary>&nbsp;&#128293; 𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚘 &#128293;</summary>
-> >
-> > ###
-> > <a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
-> > <a href="https://t.me/JulioCj7"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a>
-> > <a href="https://discordapp.com/users/617562629065539634"><img src="https://img.shields.io/badge/Discord-2CA5E0?style=flat&logo=discord&logoColor=white"></a>
-> > </details>
--->
-
-<!--
-<details><summary><h3> 🔥 Contacto :</h3></summary>
-
-----
-
-
-</details>
--->
+> > 𝙹𝚞𝚜𝚝 `¡𝚌𝚊𝚙𝚝𝚞𝚛𝚎 𝚝𝚑𝚎 𝚏𝚕𝚊𝚐!`, 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍, 𝚒𝚏 𝚢𝚘𝚞 𝚍𝚊𝚛𝚎 &nbsp;&nbsp;**...**&nbsp;&nbsp; &#128293;
 
 <!--
 ## <picture> <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/fireball.gif" width=30px>  </picture> Contacto :
 -->
-
 ## Contacto :
-
 <br>
-
 <p align="center">
   <code><a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest" target="_blank"><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a></code>
   <code><a href="https://t.me/JulioCj7" target="_blank"><img height="25" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a></code>
@@ -107,7 +77,11 @@ ______________________________________________________
   </kbd>
   <kbd>
     <a href="https://discordapp.com/users/617562629065539634" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-2CA5E0?style=flat&logo=discord&logoColor=white">
+      <img src="https://img.shields.io/badge/Discord-2CA5E0.svg?style=flat&logo=discord&logoColor=white">
+    </a>
+  </kbd>
+  <kbd>
+    <a href="https://reddit.com/u/--simplythebest" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=reddit&logoColor=white">
     </a>
   </kbd>
 </div>
@@ -122,7 +96,6 @@ ______________________________________________________
 <!--
 ## <picture> <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/fireball.gif" width=30px>  </picture> FlagCaptureCj7 :
 -->
-
 ## FlagCaptureCj7 :
 * Captura las banderas de cada nivel de dificultad y envíamelas a través de [`WhatsApp`](#----), [`Telegram`](#----), [`Discord`](#----) o [`Reddit`](#----). ¡Recibirás una gran recompensa por tu esfuerzo! :moneybag:
 * El contenido, código, diseño y todo lo relacionado, son propiedad exclusiva mía :sunglasses:
@@ -137,7 +110,6 @@ ______________________________________________________
 <!--
 ## <picture> <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/fireball.gif" width=30px>  </picture> Instalación :
 -->
-
 ## Instalación :
 ###### 𝟶𝟷. 𝙰𝚌𝚝𝚞𝚊𝚕𝚒𝚣𝚊𝚛 𝚙𝚊𝚚𝚞𝚎𝚝𝚎𝚜
 ```shell
