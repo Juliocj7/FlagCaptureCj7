@@ -149,7 +149,7 @@ cd FlagCaptureCj7  #¡𝙹𝚞𝚜𝚝𝙳𝚎𝚌𝚒𝚙𝚑𝚎𝚛!
 > </blockquote>
 
 $$
-\textcolor{#353535}{\_{𝚃𝚒𝚙: }} \space \textcolor{#252525}{\_{𝙲𝚘𝚗𝚟𝚎𝚛𝚝 \space\space 𝚔𝚎𝚢}} \space \textcolor{#202020}{\_{¡𝚞𝚗𝚒𝚌𝚘𝚍𝚎𝟸𝚊𝚜𝚌𝚒𝚒 \space!}}
+\textcolor{#252525}{\_{𝙿𝚕𝚎𝚊𝚜𝚎}} \space \textcolor{#252525}{\_{𝚌𝚘𝚗𝚟𝚎𝚛𝚝 \space\space 𝚔𝚎𝚢}} \space \textcolor{#202020}{\_{¡𝚞𝚗𝚒𝚌𝚘𝚍𝚎𝟸𝚊𝚜𝚌𝚒𝚒 \space!}}
 $$
 
 ---
