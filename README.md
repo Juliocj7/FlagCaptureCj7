@@ -48,10 +48,10 @@
 > [!NOTE]
 > > 𝙹𝚞𝚜𝚝 `¡𝚌𝚊𝚙𝚝𝚞𝚛𝚎 𝚝𝚑𝚎 𝚏𝚕𝚊𝚐!`, 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍, 𝚒𝚏 𝚢𝚘𝚞 𝚍𝚊𝚛𝚎 &nbsp;&nbsp;**...**&nbsp;&nbsp; &#128293;
 
+## Contacto :
 <!--
 ## <picture> <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/fireball.gif" width=30px>  </picture> Contacto :
 -->
-## Contacto :
 <br>
 <p align="center">
   <code><a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest" target="_blank"><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a></code>
@@ -90,10 +90,10 @@
   </a>
 </div>
 
+## FlagCaptureCj7 :
 <!--
 ## <picture> <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/fireball.gif" width=30px>  </picture> FlagCaptureCj7 :
 -->
-## FlagCaptureCj7 :
 * Captura las banderas de cada nivel de dificultad y envíamelas a través de [`WhatsApp`](#----), [`Telegram`](#----), [`Discord`](#----) o [`Reddit`](#----). ¡Recibirás una gran recompensa por tu esfuerzo! :moneybag:
 * El contenido, código, diseño y todo lo relacionado, son propiedad exclusiva mía :sunglasses:
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
@@ -104,10 +104,10 @@
   </a>
 </div>
 
+## Instalación :
 <!--
 ## <picture> <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/fireball.gif" width=30px>  </picture> Instalación :
 -->
-## Instalación :
 ###### 𝟶𝟷. 𝙰𝚌𝚝𝚞𝚊𝚕𝚒𝚣𝚊𝚛 𝚙𝚊𝚚𝚞𝚎𝚝𝚎𝚜
 ```shell
 yes|{ apt update && apt upgrade; }
