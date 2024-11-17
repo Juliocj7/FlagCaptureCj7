@@ -48,6 +48,13 @@
 > [!NOTE]
 > > 𝙹𝚞𝚜𝚝 `¡𝚌𝚊𝚙𝚝𝚞𝚛𝚎 𝚝𝚑𝚎 𝚏𝚕𝚊𝚐!`, 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍, 𝚒𝚏 𝚢𝚘𝚞 𝚍𝚊𝚛𝚎 &nbsp;&nbsp;**...**&nbsp;&nbsp; &#128293;
 
+$$
+\textcolor{#454545}{\_{"}} \space \textcolor{#eee}{\_{𝚁𝚎𝚟𝚎𝚛𝚜𝚎 \space 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐}} \space \textcolor{#454545}{\_{"}}
+$$  
+$$
+\textcolor{#454545}{\_{●}} \space \textcolor{#656565}{\_{𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢: }} \space \textcolor{#bbb}{\_{¡𝚖𝚒𝚜𝚌𝚎𝚕𝚕𝚊𝚗𝚎𝚘𝚞𝚜 \space!}}
+$$
+
 ## Contacto :
 <!--
 ## <picture> <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/fireball.gif" width=30px>  </picture> Contacto :
