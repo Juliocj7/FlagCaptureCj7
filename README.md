@@ -124,15 +124,7 @@ cd FlagCaptureCj7  #¡𝙹𝚞𝚜𝚝𝙳𝚎𝚌𝚒𝚙𝚑𝚎𝚛!
 
 <hr>
 
-$$
-\textcolor{#454545}{\_{"}} \space \textcolor{#eee}{\_{𝚁𝚎𝚟𝚎𝚛𝚜𝚎 \space 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐}} \space \textcolor{#454545}{\_{"}}
-$$  
-$$
-\textcolor{#454545}{\_{●}} \space \textcolor{#656565}{\_{𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢: }} \space \textcolor{#bbb}{\_{¡𝚖𝚒𝚜𝚌𝚎𝚕𝚕𝚊𝚗𝚎𝚘𝚞𝚜 \space!}}
-$$
-
-<!-- > [!IMPORTANT]-->
-
+> [!IMPORTANT]
 > > 𝙴𝚕𝚒𝚐𝚎 𝚞𝚗 𝚗𝚒𝚟𝚎𝚕 𝚢 𝚌𝚊𝚙𝚝𝚞𝚛𝚊 𝚕𝚊 𝚋𝚊𝚗𝚍𝚎𝚛𝚊 <sub>... `¡ 𝟻𝟷 𝚙𝚞𝟹𝚍𝟹𝟻 𝚡𝙳 !`</sub>
 >
 > > * [x] ¡ 𝚜𝚒𝚖𝚙𝚕𝚎 ! &nbsp;&nbsp;&nbsp; :star:
@@ -141,7 +133,7 @@ $$
 >
 > <blockquote>
 > <details>
->  <summary>&nbsp;𝙵𝚘𝚛𝚖𝚊𝚝 𝚏𝚕𝚊𝚐 :</summary>
+>  <summary>&nbsp;𝙵𝚕𝚊𝚐 𝚏𝚘𝚛𝚖𝚊𝚝 :</summary>
 >
 > <sub>🚩</sub>&nbsp;&nbsp;&nbsp;<sub>`𝙹𝚞𝚕𝚒𝙾_𝙲𝚃𝙵{**********}`</sub>
 > <a href="#--------"><img src= "https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar1.gif" /></a>
@@ -159,7 +151,27 @@ $$
 
 $$
 \textcolor{#252525}{\_{𝙿𝚕𝚎𝚊𝚜𝚎}} \space \textcolor{#252525}{\_{𝚌𝚘𝚗𝚟𝚎𝚛𝚝 \space\space 𝚔𝚎𝚢}} \space \textcolor{#202020}{\_{¡𝚞𝚗𝚒𝚌𝚘𝚍𝚎𝟸𝚊𝚜𝚌𝚒𝚒 \space!}}
+$$  
 $$
+\textcolor{#454545}{\_{"}} \space \textcolor{#eee}{\_{𝚁𝚎𝚟𝚎𝚛𝚜𝚎 \space 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐}} \space \textcolor{#454545}{\_{"}}
+$$  
+$$
+\textcolor{#454545}{\_{●}} \space \textcolor{#656565}{\_{𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢: }} \space \textcolor{#bbb}{\_{¡𝚖𝚒𝚜𝚌𝚎𝚕𝚕𝚊𝚗𝚎𝚘𝚞𝚜 \space!}}
+$$
+
+---
+
+<div align="center">
+  <sub>
+    
+  > 𝙵𝚕𝚊𝚐 𝚏𝚘𝚛𝚖𝚊𝚝 𝚛𝚎𝚐𝚎𝚡
+
+  </sub>
+</div>
+
+```ShellSession
+/^JuliO_CTF{[\w_!@#?$%\.'"+:->]{5,50}}$/
+```
 
 ---
 
