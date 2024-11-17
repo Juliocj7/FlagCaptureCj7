@@ -1,21 +1,26 @@
 <hr>
 
+$$
+\textcolor{#454545}{\_{[ \space ! \space ]}} \space \textcolor{#858585}{\_{𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢: }} \space \textcolor{#afff00}{\_{¡𝚖𝚒𝚜𝚌𝚎𝚕𝚕𝚊𝚗𝚎𝚘𝚞𝚜 \space!}}
+$$
 
-> [!IMPORTANT]
-> > 𝙻𝚎𝚟𝚎𝚕 :
+<hr>
+
+>
+> > :trophy: &nbsp; 𝙻𝚎𝚟𝚎𝚕 :
 >
 > > * [x] `𝚎𝚊𝚜𝚢`
 > > * [x] `𝚋𝚊𝚜𝚒𝚌`
 > > * [x] `𝚗𝚘𝚟𝚒𝚌𝚎`
+> > * [x] `𝚜𝚒𝚖𝚙𝚕𝚎`
 > > * [x] `𝚋𝚎𝚐𝚒𝚗𝚗𝚎𝚛`
 >
-> > :triangular_flag_on_post: `𝙹𝚞𝚕𝚒𝙾_𝙲𝚃𝙵{**********}`
-
+> > :triangular_flag_on_post: &nbsp; `𝙹𝚞𝚕𝚒𝙾_𝙲𝚃𝙵{**********}`
 
 ---
 
 ```ShellSession
-[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #+59179424937 😜
+[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #+𝟻𝟿𝟷𝟽𝟿𝟺𝟸𝟺𝟿𝟹𝟽
 ```
 
 <div align="center">
