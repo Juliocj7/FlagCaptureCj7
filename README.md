@@ -119,7 +119,7 @@ gh repo clone Juliocj7/FlagCaptureCj7
 ```
 ###### 𝟶𝟹. 𝙰𝚌𝚌𝚎𝚜𝚘 𝚊 𝚍𝚒𝚛𝚎𝚌𝚝𝚘𝚛𝚒𝚘
 ```shell
-cd FlagCaptureCj7  #¡𝙹𝚞𝚜𝚝𝙳𝚎𝚌𝚒𝚙𝚑𝚎𝚛!
+cd FlagCaptureCj7 # 𝚊𝚗𝚍 ¡𝙹𝚞𝚜𝚝𝙳𝚎𝚌𝚒𝚙𝚑𝚎𝚛!
 ```
 
 <hr>
