@@ -36,4 +36,3 @@ $$
     <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
   </a>
 </div>
-
