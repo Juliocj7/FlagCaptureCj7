@@ -16,7 +16,6 @@ $$
 >
 > > :triangular_flag_on_post: &nbsp; `𝙹𝚞𝚕𝚒𝙾_𝙲𝚃𝙵{**********}`
 
-
 ---
 
 ```ShellSession
@@ -36,4 +35,3 @@ $$
     <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
   </a>
 </div>
-
