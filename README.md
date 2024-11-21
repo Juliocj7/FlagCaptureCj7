@@ -13,14 +13,6 @@
 
 <br>
 
-<!--
-<div align="center">
-  <a href="#--------">
-    <img title="banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="105" />
-  </a>
-</div>
--->
-
 <div align="center">
   <a href="#--------">
     <picture>
