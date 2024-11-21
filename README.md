@@ -7,7 +7,7 @@
   
 <div align="center">
   <a href="#------">
-    <img title="author" src="https://img.shields.io/badge/Author-𖤐 𝙹𝚞𝚕𝚒𝚘𝙲𝚓7 𖤐-svg?label=author&labelColor=222&style=flat&color=000&logo=github">
+    <img title="author" src="https://img.shields.io/badge/Author-⸸ 𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7 ⸸-svg?label=Author%20:&labelColor=222&style=flat&color=000&logo=github">
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 <!--
 <div align="center">
   <a href="#--------">
-    <img title="Mi Banner" src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="105" />
+    <img title="banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="105" />
   </a>
 </div>
 -->
