@@ -26,7 +26,7 @@
   <a href="#--------">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-dark.gif">
-      <img alt="banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-dark.gif">
+      <img alt="banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-light.gif">
     </picture>
   </a>
 </div>
