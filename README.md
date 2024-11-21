@@ -13,9 +13,21 @@
 
 <br>
 
+<!--
 <div align="center">
   <a href="#--------">
     <img title="Mi Banner" src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="105" />
+  </a>
+</div>
+-->
+
+
+<div align="center">
+  <a href="#--------">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-dark.png">
+      <img alt="banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-light.png">
+    </picture>
   </a>
 </div>
 
