@@ -6,8 +6,8 @@
 /*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/-->
   
 <div align="center">
-  <a href="https://github.com/Juliocj7">
-    <img title="Author" src="https://img.shields.io/badge/Author-𖤐 𝙹𝚞𝚕𝚒𝚘 𝙲𝚓7 𖤐-svg?style=flat&color=000000&logo=github">
+  <a href="#------">
+    <img title="author" src="https://img.shields.io/badge/Author-𖤐 𝙹𝚞𝚕𝚒𝚘𝙲𝚓7 𖤐-svg?label=author&labelColor=222&style=flat&color=000&logo=github">
   </a>
 </div>
 
