@@ -1,6 +1,9 @@
 <div align="center">
   <a href="#------">
-    <img alt="author flagcapture" src="https://github.com/Juliocj7/FlagCaptureCj7/blob/main/docs/author.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/FlagCaptureCj7/blob/main/docs/author.svg">
+    <img alt="author flagcapture" src="https://github.com/Juliocj7/FlagCaptureCj7/blob/main/docs/logo.png">
+    </picture>
   </a>
 </div>
 
