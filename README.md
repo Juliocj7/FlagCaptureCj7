@@ -57,10 +57,10 @@
 
 <br>
 <p align="center">
-  <code><a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest" target="_blank"><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a></code>
-  <code><a href="https://t.me/JulioCj7" target="_blank"><img height="25" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a></code>
-  <code><a href="https://discordapp.com/users/617562629065539634" target="_blank"><img height="25" src="https://img.shields.io/badge/Discord-2CA5E0.svg?style=flat&logo=discord&logoColor=white"></a></code>
-  <code><a href="https://reddit.com/u/--simplythebest" target="_blank"><img height="25" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=reddit&logoColor=white"></a></code>
+  <code><a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest" target="_blank"><img alt="whatsapp" height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a></code>
+  <code><a href="https://t.me/JulioCj7" target="_blank"><img alt="telegram" height="25" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a></code>
+  <code><a href="https://discordapp.com/users/617562629065539634" target="_blank"><img alt="discord" height="25" src="https://img.shields.io/badge/Discord-2CA5E0.svg?style=flat&logo=discord&logoColor=white"></a></code>
+  <code><a href="https://reddit.com/u/--simplythebest" target="_blank"><img alt="reddit" height="25" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=reddit&logoColor=white"></a></code>
 </p>
 
 <!--
@@ -88,8 +88,8 @@
 -->
 
 <div align="center">
-  <a href="#--------">
-    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar1.gif"/>
+  <a href="#---">
+    <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar1.gif" />
   </a>
 </div>
 
@@ -103,8 +103,8 @@
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
 <div align="center">
-  <a href="#--------">
-    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar1.gif"/>
+  <a href="#---">
+    <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar1.gif" />
   </a>
 </div>
 
