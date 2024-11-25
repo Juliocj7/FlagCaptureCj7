@@ -67,21 +67,21 @@
 <div align="center">
   <kbd>
     <a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
+      <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
     </a>
   </kbd>
   <kbd>
     <a href="https://t.me/JulioCj7" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
+      <img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
     </a>
   </kbd>
   <kbd>
     <a href="https://discordapp.com/users/617562629065539634" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-2CA5E0.svg?style=flat&logo=discord&logoColor=white">
+      <img alt="discord" src="https://img.shields.io/badge/Discord-2CA5E0.svg?style=flat&logo=discord&logoColor=white">
     </a>
   </kbd>
   <kbd>
-    <a href="https://reddit.com/u/--simplythebest" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=reddit&logoColor=white">
+    <a href="https://reddit.com/u/--simplythebest" target="_blank"><img alt="reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=reddit&logoColor=white">
     </a>
   </kbd>
 </div>
@@ -200,8 +200,8 @@ $$
 </div>
 
 <div align="center">
-  <a href="#--------">
-    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
+  <a href="#---">
+    <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar2.gif" />
   </a>
 </div>
 
