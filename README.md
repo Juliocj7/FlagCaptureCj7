@@ -53,7 +53,7 @@
 <!--
 ## Contacto :
 -->
-## <picture> <img src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/imagesgif/voicekit.gif" width=30px>  </picture> Contacto :
+## <picture> <img src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/imagesgif/i-contact.gif" width=30px>  </picture> Contacto :
 
 <br>
 <p align="center">
@@ -96,7 +96,7 @@
 <!--
 ## FlagCaptureCj7 :
 -->
-## <picture> <img src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/imagesgif/labskit.gif" width=30px>  </picture> FlagCaptureCj7 :
+## <picture> <img src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/imagesgif/i-kitlabs.gif" width=30px>  </picture> FlagCaptureCj7 :
 
 * Captura las banderas de cada nivel de dificultad y envíamelas a través de [`WhatsApp`](#----), [`Telegram`](#----), [`Discord`](#----) o [`Reddit`](#----). ¡Recibirás una gran recompensa por tu esfuerzo! :moneybag:
 * El contenido, código, diseño y todo lo relacionado, son propiedad exclusiva mía :sunglasses:
@@ -111,7 +111,7 @@
 <!--
 ## Instalación :
 -->
-## <picture> <img src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/imagesgif/toolkit.gif" width=30px>  </picture> Instalación :
+## <picture> <img src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/imagesgif/i-install.gif" width=30px>  </picture> Instalación :
 
 ###### 𝟶𝟷. 𝙰𝚌𝚝𝚞𝚊𝚕𝚒𝚣𝚊𝚛 𝚙𝚊𝚚𝚞𝚎𝚝𝚎𝚜
 ```shell
