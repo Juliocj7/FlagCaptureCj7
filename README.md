@@ -48,7 +48,7 @@
 </div>
 
 > [!NOTE]
-> > 𝙹𝚞𝚜𝚝 `¡𝚌𝚊𝚙𝚝𝚞𝚛𝚎 𝚝𝚑𝚎 𝚏𝚕𝚊𝚐!`, 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍, 𝚒𝚏 𝚢𝚘𝚞 𝚍𝚊𝚛𝚎 &nbsp;&nbsp;**...**&nbsp;&nbsp; <img src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-fireball.gif" width="20" height="20" />
+> > 𝙹𝚞𝚜𝚝 `¡𝚌𝚊𝚙𝚝𝚞𝚛𝚎 𝚝𝚑𝚎 𝚏𝚕𝚊𝚐!`, 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍, 𝚒𝚏 𝚢𝚘𝚞 𝚍𝚊𝚛𝚎 &nbsp;&nbsp;**...**&nbsp;&nbsp; <a href="#---"><img alt="i-fireball" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-fireball.png" width="25" height="25" /></a>
 
 <!--
 ## Contacto :
@@ -61,6 +61,10 @@
   <code><a href="https://t.me//JulioCj7" target="_blank"><img alt="telegram" height="25" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a></code>
   <code><a href="https://discordapp.com/users/617562629065539634" target="_blank"><img alt="discord" height="25" src="https://img.shields.io/badge/Discord-2CA5E0.svg?style=flat&logo=discord&logoColor=white"></a></code>
   <code><a href="https://reddit.com/u/--simplythebest" target="_blank"><img alt="reddit" height="25" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=reddit&logoColor=white"></a></code>
+</p>
+
+<p align="right">
+<a href="#---"><img alt="icon kitty" src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/T-Rex.png" width="25" height="25" /></a>
 </p>
 
 <!--
