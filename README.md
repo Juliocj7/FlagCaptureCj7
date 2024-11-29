@@ -98,7 +98,7 @@
 -->
 ## <picture> <img src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/assets/image/i-kitlabs.gif" width=30px>  </picture> FlagCaptureCj7 :
 
-* H1 0xh4ck3r, captura las banderas de cada nivel de dificultad y envíamelas a través de [`WhatsApp`](#----), [`Telegram`](#----), [`Discord`](#----) o [`Reddit`](#----) ¡ hazlo y recibirás una gran recompensa por tu esfuerzo ! <img alt="i-money" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-money.png" width="20" height="20" />
+* H1 0xh4ck3r, captura las banderas de cada nivel de dificultad y envíamelas a través de [`WhatsApp`](#----), [`Telegram`](#----), [`Discord`](#----) o [`Reddit`](#----) ¡ recibirás una gran recompensa por tu esfuerzo ! <img alt="i-money" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-money.png" width="20" height="20" />
 * El contenido, código, diseño y todo lo relacionado, son propiedad exclusiva y totalmente mía <img alt="i-boycute" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-boycute.png" width="20" height="20" />
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
@@ -201,7 +201,7 @@ $$
 
 <div align="center">
   <a href="#repo-content-pjax-container">
-    <img alt="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/assets/image/i-scrollup.gif" width="35" height="35" />
+    <img alt="i-scrollup" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/assets/image/i-scrollup.gif" width="35" height="35" />
   </a>
 </div>
 
