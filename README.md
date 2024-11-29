@@ -50,6 +50,12 @@
 > [!NOTE]
 > > 𝙹𝚞𝚜𝚝 `¡𝚌𝚊𝚙𝚝𝚞𝚛𝚎 𝚝𝚑𝚎 𝚏𝚕𝚊𝚐!`, 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍, 𝚒𝚏 𝚢𝚘𝚞 𝚍𝚊𝚛𝚎 &nbsp;&nbsp;**...**&nbsp;&nbsp; <img alt="i-fireball" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-fireball.png" width="20" height="20" />
 
+<div align="center">
+  
+[![pages-build-deployment](https://github.com/JulioCj7/FlagCaptureCj7/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/JulioCj7/FlagCaptureCj7/actions)
+
+</div>
+
 <!--
 ## Contacto :
 -->
