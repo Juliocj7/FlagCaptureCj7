@@ -50,15 +50,14 @@
 > [!NOTE]
 > > 𝙹𝚞𝚜𝚝 `¡𝚌𝚊𝚙𝚝𝚞𝚛𝚎 𝚝𝚑𝚎 𝚏𝚕𝚊𝚐!`, 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍, 𝚒𝚏 𝚢𝚘𝚞 𝚍𝚊𝚛𝚎 &nbsp;&nbsp;**...**&nbsp;&nbsp; <img alt="i-fireball" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-fireball.png" width="20" height="20" />
 
+<!--
 <div align="center">
   
 [![pages-build-deployment](https://github.com/JulioCj7/FlagCaptureCj7/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/JulioCj7/FlagCaptureCj7/actions)
 
 </div>
-
-<!--
-## Contacto :
 -->
+
 ## <picture> <img src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/assets/image/i-contact.gif" width=30px>  </picture> Contacto :
 
 <br>
@@ -99,9 +98,6 @@
   </a>
 </div>
 
-<!--
-## FlagCaptureCj7 :
--->
 ## <picture> <img src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/assets/image/i-kitlabs.gif" width=30px>  </picture> FlagCaptureCj7 :
 
 * `0xh3110h4ck3r`, captura las banderas de cada nivel de dificultad y envíamelas a través de [`WhatsApp`](#----), [`Telegram`](#----), [`Discord`](#----) o [`Reddit`](#----) ¡recibirás una gran recompensa por tu esfuerzo! <img alt="i-money" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-money.png" width="20" height="20" />
@@ -114,9 +110,6 @@
   </a>
 </div>
 
-<!--
-## Instalación :
--->
 ## <picture> <img src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/assets/image/i-install.gif" width=30px>  </picture> Instalación :
 
 ###### 𝟶𝟷. 𝙰𝚌𝚝𝚞𝚊𝚕𝚒𝚣𝚊𝚛 𝚙𝚊𝚚𝚞𝚎𝚝𝚎𝚜
