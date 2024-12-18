@@ -1,0 +1,9 @@
+#  ** ¡The password is not here! **
+**/** filter=git-crypt diff=git-crypt
+#  ** ¡The password is not here! **
+
+       **/*.md -filter
+    CODEOWNERS -filter
+.gitattributes -filter
+
+# Copyright © 2025 all rights reserved
