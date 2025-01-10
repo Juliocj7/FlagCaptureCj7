@@ -2,6 +2,8 @@
 **/** filter=git-crypt diff=git-crypt
 #  ** ¡The password is not here! **
 
+        docs/* -filter
+
        **/*.md -filter
     CODEOWNERS -filter
 .gitattributes -filter
