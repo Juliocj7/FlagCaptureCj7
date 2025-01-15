@@ -1,4 +1,4 @@
-# Código de Conducta
+# CODE OF CONDUCT
 Este repositorio está destinado a la resolución de retos CTF (Capture The Flag), un espacio donde la colaboración, el aprendizaje y el desafío técnico son clave. Queremos asegurarnos de que este proyecto sea un entorno respetuoso e inclusivo para todos, independientemente de su nivel de habilidad, identidad de género, etnia, orientación sexual o cualquier otra característica personal.
 
 ## Comportamientos Esperados
