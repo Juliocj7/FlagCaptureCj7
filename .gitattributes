@@ -2,6 +2,8 @@
 **/** filter=git-crypt diff=git-crypt
 #  ** ¡ The password is not here ! **
 
+             • -filter
+
         docs/* -filter
 
        **/*.md -filter
