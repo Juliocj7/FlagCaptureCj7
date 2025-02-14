@@ -1,7 +1,11 @@
-<hr>
+<div align="center">
+  <a href="#---">
+    <img alt="gh-author name" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/assets/svg/txt-01.svg" />
+  </a>
+</div>
 
 $$
-\textcolor{#454545}{\_{[ \space ! \space ]}} \space \textcolor{#858585}{\_{𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢: }} \space \textcolor{#afff00}{\_{¡𝚖𝚒𝚜𝚌𝚎𝚕𝚕𝚊𝚗𝚎𝚘𝚞𝚜 \space!}}
+\textcolor{#454545}{\_{[ \space ! \space ]}} \space \textcolor{#858585}{\_{𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢: }} \space \textcolor{#ff00ff}{\_{¡𝚖𝚒𝚜𝚌𝚎𝚕𝚕𝚊𝚗𝚎𝚘𝚞𝚜 \space!}}
 $$
 
 <hr>
