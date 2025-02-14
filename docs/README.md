@@ -1,4 +1,11 @@
 <div align="center">
+
+>  <details><summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓𝟽</summary><br><img alt="message flagcapture" src="https://raw.githubusercontent.com/Juliocj7/FlagCaptureCj7/refs/heads/main/docs/session.svg">
+  </details>
+
+</div>
+
+<div align="center">
   <a href="#------">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/FlagCaptureCj7/blob/main/docs/author.svg">
