@@ -4,9 +4,8 @@
 
              • -filter
 
-        docs/* -filter
-
        **/*.md -filter
+       docs/** -filter
     CODEOWNERS -filter
 .gitattributes -filter
 
