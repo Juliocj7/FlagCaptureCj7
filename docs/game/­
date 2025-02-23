@@ -1,0 +1,2 @@
+easter.egg  : pip3 install "git+https://github.com/Juliocj7/FlagCaptureCj7@main#subdirectory=docs/game/"
+execute.bin : ahorcado
