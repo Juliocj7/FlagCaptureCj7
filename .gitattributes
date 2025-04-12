@@ -7,6 +7,7 @@
        **/*.md -filter
        docs/** -filter
     CODEOWNERS -filter
+ .github/*.yml -filter
 .gitattributes -filter
 
 # Copyright © 2025 all rights reserved
