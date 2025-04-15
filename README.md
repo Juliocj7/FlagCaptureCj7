@@ -156,6 +156,12 @@ $$
 \textcolor{#252525}{\_{𝙿𝚕𝚎𝚊𝚜𝚎}} \space \textcolor{#252525}{\_{𝚌𝚘𝚗𝚟𝚎𝚛𝚝 \space\space 𝚔𝚎𝚢}} \space \textcolor{#202020}{\_{¡𝚞𝚗𝚒𝚌𝚘𝚍𝚎𝟸𝚊𝚜𝚌𝚒𝚒 \space!}}
 $$  
 
+<div align="center">
+  <a href="https://github.com/juliocj7.gpg" target="_blank">
+    <img alt="gpg-secret-key" src="https://img.shields.io/badge/%20private%20key%20-%2391d7e3?label=secret&labelColor=302d41&style=plastic&logo=gnu-privacy-guard&logoColor=91d7e3" />
+  </a>
+</div>
+
 ---
 
 <!--
